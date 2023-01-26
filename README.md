@@ -1,15 +1,17 @@
-# webscraping_basic
-> 나도코딩 Youtube의 'Python Coding Lecture Part 3 - web scraping'편을 실습하고 있습니다. ☺️  
-> I am practicing 'Python Coding Lecture Part 3 - web scraping' of Nado Coding Youtube. ☺️  
+# webscraping_basic 🐢
+> 나도코딩 Youtube의 'Python Coding Lecture Part 3 - web scraping'편을 실습하고 있습니다. 😊  
+> I am practicing 'Python Coding Lecture Part 3 - web scraping' of Nado Coding Youtube. 😊 
 - Youtube Link : https://youtu.be/yQ20jZwDjTE
 
-# webscraping_project
+# webscraping_project 🐢
 > 나만의 비서 만들기!  
 > 단순 실습용으로만 만든 프로그램  
 > 웹 스크래핑을 이용하여 오늘의 날씨 / 경제관련 뉴스 3가지 / IT관련 뉴스 3가지 / 오늘의 영어회화 를 볼 수 있도록 만듦    
+> ⚠️혼자 만들어본 것이라 틀릴 수도 있습니다. 💦   
 > Create my own secretary!  
 > Program made with simple practice  
-> By using scraping, today's weather / 3 economy-related news / 3 IT-related news / today's English conversation can be viewed    
+> By using scraping, today's weather / 3 economy-related news / 3 IT-related news / today's English conversation can be viewed  
+> ⚠️It could be wrong because I made it myself 💦    
   
 - [조건]
 - 1. 네이버에서 오늘 서울의 날씨정보를 가져온다
